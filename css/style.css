@@ -1,0 +1,26 @@
+.header, .hero, .body, .bar, .footer {
+  background-color: aqua;
+  margin-bottom: 15px;
+
+}
+
+.box  {
+  margin: 10px 0;
+  min-height: 80px;
+  background-color: azure;
+  font-size: 25px;
+}
+
+.green {
+  background-color: #20c997;
+}
+
+.five {
+  background-color: #0d6dfd;
+}
+
+.box2 {
+  width: 200px;
+  height: 200px;
+  background-color: #6610f2;
+}
